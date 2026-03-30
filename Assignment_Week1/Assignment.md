@@ -42,7 +42,7 @@ Create the following additional columns:
 • What is the average current price, old price, discount percentage, and rating?  ![alt text](image-9.png)  
 • Which product is the most expensive and which is the least expensive?![alt text](image-10.png)  
 • What is the average rating and discount by discount category?  ![alt text](image-11.png)   
-• How are products distributed across rating categories? ![alt text](image-12.png)
+• How are products distributed across rating categories?  ![alt text](image-12.png)
 #### Trend and Relationship Analysis 
 • Analyze the relationship between discount percentage and number of reviews ![alt text](image-5.png)
 • Analyze the relationship between rating and number of reviews  ![alt text](image-6.png)
